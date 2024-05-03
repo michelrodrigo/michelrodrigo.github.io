@@ -4,6 +4,13 @@ title: Welcome to my blog
 
 This is my timeline. 
 
+# 2023 - Now
+
+In 2023 I got a job as Product Development Engineer at Embraer, in São José dos Campos - SP. Since then, I've been working in the Safety & Aircraft Integration Team, where we basically evaluate how a given aircraft system affects the other ones, mainly when considering failures. One of the main challenges is to show that no single failure of a system will impair a safe flight and landing. 
+
+In the meantime I'm trying to keep up with my research (related to Phase 2 of my PhD). The first publication of this new phase was at [WODES 2024](https://wodes2024.eventos.ufrj.br/).
+
+- [Persistent Attacks on the Supervisory Control Layer of DES (2024)](papers/mine/Alves_Pena_Rudie_2024_Persistent_aAttacks_on_DES.pdf)
 
 # 2018 - 2022 - PhD
 
@@ -28,7 +35,7 @@ However, because of the COVID 19 pandemics, I was stuck at home at this time and
 
 ## Other activities
 
-During this time, I was also doing another activities:
+During this time, I was also doing other activities:
 - Personal tutor (math, physics, electronicis and programming)
 - Game developper: [Frog Around](https://github.com/michelrodrigo/frogAround). Don't get too excited, it was a simple little game written in python. I've also designed two physical games using arduino: [Argola](files/games/jogo_argola) and [Starwars](files/games/starwars).
 - Intership at [Fundação João Pinheiro](https://fjp.mg.gov.br/), where I worked in a [digital transformation project with R](https://github.com/FundacaoJoaoPinheiro/R/tree/main)
