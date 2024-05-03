@@ -17,7 +17,8 @@ Inspired by the work of [Wakaiki et al. (2019)](papers/others/Wakaiki2019_Articl
 - [Unknown Sensor Attacks in Supervisory Control of DES (2021)](papers/mine/Alves_Pena_Karen_Rudie___2021___Unknown_Sensor_Attacks_in_Supervisory_Control_of_DES.pdf)
 - [Discrete-event systems subject to unknown sensor attacks (2022)](papers/mine/Alves_Pena_Rudie___2022___Discrete_event_systems_subject_to_unknown_sensor_attacks.pdf)
 
-epresent and how to obtain pairs of indistinguishable states due to the action of the attacker.
-	2) This new phase started when I decided to take a closer look into real systems and how they are implemented and how results and methods presented on the literature would apply in a real system. I noticed a gap between whats is considered in the DES community and what is considered in the literature on cyber-attacks in general. Additionally, a felt the need to be able to test the results in a real physical system. 
+## Phase 2
+
+This new phase started when I decided to take a closer look into real systems and their implementation. Furthermore, I was interested on how results and methods related to cyber-security presented on the literature would apply in a real system. I noticed a gap between what is considered in the DES community and what is considered in the literature on cyber-security in general. Additionally, a felt the need to be able to test the results in a real physical system. 
 	 
 ![image](https://github.com/michelrodrigo/michelrodrigo.github.io/assets/12836843/d5ccd47f-6410-45e5-9f63-6d12742feae2)
