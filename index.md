@@ -9,7 +9,7 @@ This is my timeline.
 
 I did my PhD at [UFMG](https://ufmg.br/), with the [LACSED](https://lacsed.eng.ufmg.br/) group. [Professor Patrícia](https://somos.ufmg.br/professor/patricia-nascimento-pena) and [Professor Karen](https://smithengineering.queensu.ca/directory/faculty/karen-rudie) were my advisors.
 
-My research during the PhD can be divided in two phases. 
+My research during the PhD can be divided in two phases. All the results are presented in my [thesis](papers/mine/thesis_Michel_final_version.pdf). 
 
 ## Phase 1
 
@@ -20,5 +20,10 @@ Inspired by the work of [Wakaiki et al. (2019)](papers/others/Wakaiki2019_Articl
 ## Phase 2
 
 This new phase started when I decided to take a closer look into real systems and their implementation. Furthermore, I was interested on how results and methods related to cyber-security presented on the literature would apply in a real system. I noticed a gap between what is considered in the DES community and what is considered in the literature on cyber-security in general. Additionally, a felt the need to be able to test the results in a real physical system. 
-	 
-![image](https://github.com/michelrodrigo/michelrodrigo.github.io/assets/12836843/d5ccd47f-6410-45e5-9f63-6d12742feae2)
+
+However, because of the COVID 19 pandemics, I was stuck at home at this time and I had to built the physical system myself. I did it using arduino and other low-cost devices. We published a paper at WODES 2022 describing the system, as well as a repository to share information about it.
+
+- [A Security Testbed for Networked Control Systems (2022)](papers/mine/Alves_Pena_Rudie_2022_Testbed_for_Networked_Control_Systems.pdf)
+- [Repository](https://lacsed.github.io/security-testbed/)
+
+
