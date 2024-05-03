@@ -26,4 +26,12 @@ However, because of the COVID 19 pandemics, I was stuck at home at this time and
 - [A Security Testbed for Networked Control Systems (2022)](papers/mine/Alves_Pena_Rudie_2022_Testbed_for_Networked_Control_Systems.pdf)
 - [Repository](https://lacsed.github.io/security-testbed/)
 
+## Other activities
 
+During this time, I was also doing another activities:
+- Personal tutor (math, physics, electronicis and programming)
+- Game developper: [Frog Around](https://github.com/michelrodrigo/frogAround)
+- Intership at [Fundação João Pinheiro](https://fjp.mg.gov.br/), where I worked in a [digital transformation project with R](https://github.com/FundacaoJoaoPinheiro/R/tree/main)
+- Teacher at [CEFET-MG](https://www.cefetmg.br/), where I taught automation, electronics, electrical projects and programming courses at technician level
+- Teacher at SENAI-MG, where I taught automation, process control and instrumentation courses at technician level
+- Volunteer teacher at the Department of Electronics Engineering, where I taught the control lab course.
