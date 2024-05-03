@@ -21,7 +21,7 @@ Inspired by the work of [Wakaiki et al. (2019)](papers/others/Wakaiki2019_Articl
 
 This new phase started when I decided to take a closer look into real systems and their implementation. Furthermore, I was interested on how results and methods related to cyber-security presented on the literature would apply in a real system. I noticed a gap between what is considered in the DES community and what is considered in the literature on cyber-security in general. Additionally, a felt the need to be able to test the results in a real physical system. 
 
-However, because of the COVID 19 pandemics, I was stuck at home at this time and I had to built the physical system myself. I did it using arduino and other low-cost devices. We published a paper at WODES 2022 describing the system, as well as a repository to share information about it.
+However, because of the COVID 19 pandemics, I was stuck at home at this time and I had to built the physical system myself. I did it using arduino and other low-cost devices. We published a paper at [WODES 2022](https://wodes2022.ciirc.cvut.cz/) describing the system, as well as a repository to share information about it.
 
 - [A Security Testbed for Networked Control Systems (2022)](papers/mine/Alves_Pena_Rudie_2022_Testbed_for_Networked_Control_Systems.pdf)
 - [Repository](https://lacsed.github.io/security-testbed/)
