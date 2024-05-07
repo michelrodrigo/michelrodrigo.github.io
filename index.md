@@ -8,7 +8,7 @@ This is my timeline.
 
 In 2023 I got a job as Product Development Engineer at Embraer, in São José dos Campos - SP. Since then, I've been working in the Safety & Aircraft Integration Team, where we basically evaluate how a given aircraft system affects the other ones, mainly when considering failures. One of the main challenges is to show that no single failure of a system will impair a safe flight and landing. 
 
-In the meantime I'm trying to keep up with my research (related to Phase 2 of my PhD). The first publication of this new phase was at [WODES 2024](https://wodes2024.eventos.ufrj.br/).
+In the meantime I'm trying to keep up with my research (related to Phase 2 of my PhD). The first publication of this new phase was at [WODES 2024](https://wodes2024.eventos.ufrj.br/) ([photos](https://photos.app.goo.gl/zFfgm6io4e3vxccG8)).
 
 - [Persistent Attacks on the Supervisory Control Layer of DES (2024)](papers/mine/Alves_Pena_Rudie_2024_Persistent_aAttacks_on_DES.pdf)
 
