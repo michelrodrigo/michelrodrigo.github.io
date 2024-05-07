@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-This is my timeline. 
+My only social network that I keep updated: [Strava](https://www.strava.com/athletes/50441177).
 
 # 2023 - Now
 
