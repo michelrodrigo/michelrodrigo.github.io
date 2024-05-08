@@ -42,3 +42,13 @@ During this time, I was also doing other activities:
 - Teacher at [CEFET-MG](https://www.cefetmg.br/), where I taught automation, electronics, electrical projects and programming courses at technician level
 - Teacher at SENAI-MG, where I taught automation, process control and instrumentation courses at technician level
 - Volunteer teacher at the Department of Electronics Engineering, where I taught the control lab course.
+
+  # 2016 - 2017 - Master's degree
+
+  I did my Master's at [UFMG](https://ufmg.br/), with the [LACSED](https://lacsed.eng.ufmg.br/) group. [Professor Patrícia](https://somos.ufmg.br/professor/patricia-nascimento-pena) was my advisor.
+
+My research at this time was focused on modeling production planning problems as DES. Basically, I have extended a previous result that proposed a method for search space reduction based on local modular supervisors. If you want more details, I suggest reading the following material:
+
+- [My Master's dissertation](papers/mine/dissertação_Michel.pdf) (in portuguese)
+- [Abstrações de Supervisores Localmente Modulares para Aplicação na Solução de Problemas de Planejamento (2017)](papers/mine/Alves_Pena_2017_ Abstrações de Supervisores Localmente Modulares.pdf)
+- 
