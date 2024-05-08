@@ -43,9 +43,9 @@ During this time, I was also doing other activities:
 - Teacher at SENAI-MG, where I taught automation, process control and instrumentation courses at technician level
 - Volunteer teacher at the Department of Electronics Engineering, where I taught the control lab course.
 
-  # 2016 - 2017 - Master's degree
+# 2016 - 2017 - Master's degree
 
-  I did my Master's at [UFMG](https://ufmg.br/), with the [LACSED](https://lacsed.eng.ufmg.br/) group. [Professor Patrícia](https://somos.ufmg.br/professor/patricia-nascimento-pena) was my advisor.
+I did my Master's at [UFMG](https://ufmg.br/), with the [LACSED](https://lacsed.eng.ufmg.br/) group. [Professor Patrícia](https://somos.ufmg.br/professor/patricia-nascimento-pena) was my advisor.
 
 My research at this time was focused on modeling production planning problems as DES. Basically, I have extended a previous result that proposed a method for search space reduction based on local modular supervisors. Beyond my dissertation, I have published a paper at [SBAI 2017](https://www.sba.org.br/Proceedings/SBAI/SBAI2017/SBAI17/preface.html). Additionally, I have co-authored a paper at IEEE TAC where we published results that all related to planning problems:
 
