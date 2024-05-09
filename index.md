@@ -32,6 +32,7 @@ However, because of the COVID 19 pandemics, I was stuck at home at this time and
 
 - [A Security Testbed for Networked Control Systems (2022)](papers/mine/Alves_Pena_Rudie_2022_Testbed_for_Networked_Control_Systems.pdf)
 - [Repository](https://lacsed.github.io/security-testbed/)
+- [Other files](files/doutorado)
 
 ## Other activities
 
