@@ -1,4 +1,4 @@
-# Please start here
+# Tutorial page
 
 Welcome, and thanks for choosing our product.
 
