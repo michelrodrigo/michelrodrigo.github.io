@@ -4,6 +4,8 @@ title: Welcome to my blog
 
 My only social network that I keep updated: [Strava](https://www.strava.com/athletes/50441177).
 
+[Teste](./papers.md)
+
 # 2023 - Now
 
 In 2023 I got a job as Product Development Engineer at Embraer, in São José dos Campos - SP. Since then, I've been working in the Safety & Aircraft Integration Team, where we basically evaluate how a given aircraft system affects the other ones, mainly when considering failures. One of the main challenges is to show that no single failure of a system will impair a safe flight and landing. 
