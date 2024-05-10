@@ -10,19 +10,19 @@ In 2023 I got a job as Product Development Engineer at Embraer, in São José do
 
 In the meantime I'm trying to keep up with my research (related to Phase 2 of my PhD). The first publication of this new phase was at [WODES 2024](https://wodes2024.eventos.ufrj.br/) ([photos](https://photos.app.goo.gl/zFfgm6io4e3vxccG8)).
 
-- [Persistent Attacks on the Supervisory Control Layer of DES (2024)](papers/mine/Alves_Pena_Rudie_2024_Persistent_aAttacks_on_DES.pdf)
+- [Persistent Attacks on the Supervisory Control Layer of DES (2024)](../papers/mine/Alves_Pena_Rudie_2024_Persistent_aAttacks_on_DES.pdf)
 
 # 2018 - 2022 - PhD
 
 I did my PhD at [UFMG](https://ufmg.br/), with the [LACSED](https://lacsed.eng.ufmg.br/) group. [Professor Patrícia](https://somos.ufmg.br/professor/patricia-nascimento-pena) and [Professor Karen](https://smithengineering.queensu.ca/directory/faculty/karen-rudie) were my advisors.
 
-My research during the PhD can be divided in two phases. All the results are presented in my [thesis](papers/mine/thesis_Michel_final_version.pdf). 
+My research during the PhD can be divided in two phases. All the results are presented in my [thesis](../papers/mine/thesis_Michel_final_version.pdf). 
 
 ## Phase 1
 
-Inspired by the work of [Wakaiki et al. (2019)](papers/others/Wakaiki2019_Article_SupervisoryControlOfDiscrete_E.pdf), where a property called P-observability for an attack set was defined, we came up with a new way to test it. The test was based on a new way of representing pairs of indistinguishable states. In this context, a pair of states can become indistinguishable due to the action of an attacker. From this work, we published two papers, one in SBAI 2021 and the other one at JDEDS:
-- [Unknown Sensor Attacks in Supervisory Control of DES (2021)](papers/mine/Alves_Pena_Karen_Rudie___2021___Unknown_Sensor_Attacks_in_Supervisory_Control_of_DES.pdf)
-- [Discrete-event systems subject to unknown sensor attacks (2022)](papers/mine/Alves_Pena_Rudie___2022___Discrete_event_systems_subject_to_unknown_sensor_attacks.pdf)
+Inspired by the work of [Wakaiki et al. (2019)](../papers/others/Wakaiki2019_Article_SupervisoryControlOfDiscrete_E.pdf), where a property called P-observability for an attack set was defined, we came up with a new way to test it. The test was based on a new way of representing pairs of indistinguishable states. In this context, a pair of states can become indistinguishable due to the action of an attacker. From this work, we published two papers, one in SBAI 2021 and the other one at JDEDS:
+- [Unknown Sensor Attacks in Supervisory Control of DES (2021)](../papers/mine/Alves_Pena_Karen_Rudie___2021___Unknown_Sensor_Attacks_in_Supervisory_Control_of_DES.pdf)
+- [Discrete-event systems subject to unknown sensor attacks (2022)](../papers/mine/Alves_Pena_Rudie___2022___Discrete_event_systems_subject_to_unknown_sensor_attacks.pdf)
 
 ## Phase 2
 
@@ -30,7 +30,7 @@ This new phase started when I decided to take a closer look into real systems an
 
 However, because of the COVID 19 pandemics, I was stuck at home at this time and I had to built the physical system myself. I did it using arduino and other low-cost devices. We published a paper at [WODES 2022](https://wodes2022.ciirc.cvut.cz/)([photos](https://photos.app.goo.gl/bCTQFTBJPj9dwqCT9) from the event and the trip) describing the system, as well as a repository to share information about it.
 
-- [A Security Testbed for Networked Control Systems (2022)](papers/mine/Alves_Pena_Rudie_2022_Testbed_for_Networked_Control_Systems.pdf)
+- [A Security Testbed for Networked Control Systems (2022)](../papers/mine/Alves_Pena_Rudie_2022_Testbed_for_Networked_Control_Systems.pdf)
 - [Repository](https://lacsed.github.io/security-testbed/)
 - [Other files](files/doutorado)
 
@@ -50,6 +50,6 @@ I did my Master's at [UFMG](https://ufmg.br/), with the [LACSED](https://lacsed.
 
 My research at this time was focused on modeling production planning problems as DES. Basically, I have extended a previous result that proposed a method for search space reduction based on local modular supervisors. Beyond my dissertation, I have published a paper at [SBAI 2017](https://www.sba.org.br/Proceedings/SBAI/SBAI2017/SBAI17/preface.html). Additionally, I have co-authored a paper at IEEE TAC where we published results that are all related to planning problems:
 
-- [My Master's dissertation](papers/mine/dissertação_Michel.pdf) (in portuguese)
+- [My Master's dissertation](../papers/mine/dissertação_Michel.pdf) (in portuguese)
 - [Abstrações de Supervisores Localmente Modulares para Aplicação na Solução de Problemas de Planejamento (2017)](papers/mine/Alves_Pena_2017_Abstrações_de_Supervisores_Localmente_Modulares.pdf)
-- [Abstraction of the Supervisory Control Solution to Deal With Planning Problems in Manufacturing Systems (2022)](papers/mine/Pena_et_al___2022___Abstraction_of_the_Supervisory_Control_Solution_to_Deal_with_Planning_Problems_in_Manufacturing_Syst.pdf)
+- [Abstraction of the Supervisory Control Solution to Deal With Planning Problems in Manufacturing Systems (2022)](../papers/mine/Pena_et_al___2022___Abstraction_of_the_Supervisory_Control_Solution_to_Deal_with_Planning_Problems_in_Manufacturing_Syst.pdf)
