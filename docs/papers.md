@@ -1,7 +1,5 @@
 ---
 title: Papers
-layout: template
-filename: papers.md
 --- 
 
 
