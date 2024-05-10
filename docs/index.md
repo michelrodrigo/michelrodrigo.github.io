@@ -50,6 +50,6 @@ I did my Master's at [UFMG](https://ufmg.br/), with the [LACSED](https://lacsed.
 
 My research at this time was focused on modeling production planning problems as DES. Basically, I have extended a previous result that proposed a method for search space reduction based on local modular supervisors. Beyond my dissertation, I have published a paper at [SBAI 2017](https://www.sba.org.br/Proceedings/SBAI/SBAI2017/SBAI17/preface.html). Additionally, I have co-authored a paper at IEEE TAC where we published results that are all related to planning problems:
 
-- [My Master's dissertation](papers/mine/dissertação_Michel.pdf) (in portuguese)
+- [My Master's dissertation](papers/mine/dissertacao-final.pdf) (in portuguese)
 - [Abstrações de Supervisores Localmente Modulares para Aplicação na Solução de Problemas de Planejamento (2017)](papers/mine/Alves_Pena_2017_Abstrações_de_Supervisores_Localmente_Modulares.pdf)
 - [Abstraction of the Supervisory Control Solution to Deal With Planning Problems in Manufacturing Systems (2022)](papers/mine/Pena_et_al___2022___Abstraction_of_the_Supervisory_Control_Solution_to_Deal_with_Planning_Problems_in_Manufacturing_Syst.pdf)
