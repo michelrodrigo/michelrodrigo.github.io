@@ -38,7 +38,7 @@ However, because of the COVID 19 pandemics, I was stuck at home at this time and
 
 During this time, I was also doing other activities:
 - Personal tutor (math, physics, electronicis and programming)
-- Game developper: [Frog Around](https://github.com/michelrodrigo/frogAround). Don't get too excited, it was a simple little game written in python. I've also designed two physical games using arduino: [Argola](files/games/jogo_argola) and [Starwars](files/games/starwars).
+- Game developper: [Frog Around](https://github.com/michelrodrigo/frogAround). Don't get too excited, it was a simple little game written in python. I've also designed two physical games using arduino: [Argola](https://github.com/michelrodrigo/michelrodrigo.github.io/tree/github_pg/files/games/jogo_argola) and [Starwars](https://github.com/michelrodrigo/michelrodrigo.github.io/tree/github_pg/files/games/starwars).
 - Intership at [Fundação João Pinheiro](https://fjp.mg.gov.br/), where I worked in a [digital transformation project with R](https://github.com/FundacaoJoaoPinheiro/R/tree/main)
 - Teacher at [CEFET-MG](https://www.cefetmg.br/), where I taught automation, electronics, electrical projects and programming courses at technician level
 - Teacher at SENAI-MG, where I taught automation, process control and instrumentation courses at technician level
