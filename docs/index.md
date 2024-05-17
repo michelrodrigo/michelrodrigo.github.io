@@ -24,6 +24,8 @@ Inspired by the work of [Wakaiki et al. (2019)](papers/others/Wakaiki2019_Articl
 - [Unknown Sensor Attacks in Supervisory Control of DES (2021)](papers/mine/Alves_Pena_Karen_Rudie___2021___Unknown_Sensor_Attacks_in_Supervisory_Control_of_DES.pdf)
 - [Discrete-event systems subject to unknown sensor attacks (2022)](papers/mine/Alves_Pena_Rudie___2022___Discrete_event_systems_subject_to_unknown_sensor_attacks.pdf)
 
+[Some files](docs/files/doutorado/p_observability) with models related to the study of P-observability.
+
 ## Phase 2
 
 This new phase started when I decided to take a closer look into real systems and their implementation. Furthermore, I was interested on how results and methods related to cyber-security presented on the literature would apply in a real system. I noticed a gap between what is considered in the DES community and what is considered in the literature on cyber-security in general. Additionally, a felt the need to be able to test the results in a real physical system. 
@@ -53,3 +55,5 @@ My research at this time was focused on modeling production planning problems as
 - [My Master's dissertation](papers/mine/dissertacao-final.pdf) (in portuguese)
 - [Abstrações de Supervisores Localmente Modulares para Aplicação na Solução de Problemas de Planejamento (2017)](papers/mine/Alves_Pena_2017_Abstrações_de_Supervisores_Localmente_Modulares.pdf)
 - [Abstraction of the Supervisory Control Solution to Deal With Planning Problems in Manufacturing Systems (2022)](papers/mine/Pena_et_al___2022___Abstraction_of_the_Supervisory_Control_Solution_to_Deal_with_Planning_Problems_in_Manufacturing_Syst.pdf)
+
+[Some files](docs/files/mestrado) with models used to count the size of the search space of problems presented at the TAC paper.
