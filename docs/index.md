@@ -34,7 +34,7 @@ However, because of the COVID 19 pandemics, I was stuck at home at this time and
 
 - [A Security Testbed for Networked Control Systems (2022)](papers/mine/Alves_Pena_Rudie_2022_Testbed_for_Networked_Control_Systems.pdf)
 - [Repository](https://lacsed.github.io/security-testbed/)
-- [Other files](files/doutorado)
+- [Other files](./files/doutorado)
 
 ## Other activities
 
@@ -56,4 +56,4 @@ My research at this time was focused on modeling production planning problems as
 - [Abstrações de Supervisores Localmente Modulares para Aplicação na Solução de Problemas de Planejamento (2017)](papers/mine/Alves_Pena_2017_Abstrações_de_Supervisores_Localmente_Modulares.pdf)
 - [Abstraction of the Supervisory Control Solution to Deal With Planning Problems in Manufacturing Systems (2022)](papers/mine/Pena_et_al___2022___Abstraction_of_the_Supervisory_Control_Solution_to_Deal_with_Planning_Problems_in_Manufacturing_Syst.pdf)
 
-[Some files](docs/files/mestrado) with models used to count the size of the search space of problems presented at the TAC paper.
+[Some files](./files/mestrado) with models used to count the size of the search space of problems presented at the TAC paper.
