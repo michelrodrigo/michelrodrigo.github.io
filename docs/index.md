@@ -24,7 +24,7 @@ Inspired by the work of [Wakaiki et al. (2019)](papers/others/Wakaiki2019_Articl
 - [Unknown Sensor Attacks in Supervisory Control of DES (2021)](papers/mine/Alves_Pena_Karen_Rudie___2021___Unknown_Sensor_Attacks_in_Supervisory_Control_of_DES.pdf)
 - [Discrete-event systems subject to unknown sensor attacks (2022)](papers/mine/Alves_Pena_Rudie___2022___Discrete_event_systems_subject_to_unknown_sensor_attacks.pdf)
 
-[Some files](docs/files/doutorado/p_observability) with models related to the study of P-observability.
+[Some files](./files/doutorado/p_observability) with models related to the study of P-observability.
 
 ## Phase 2
 
